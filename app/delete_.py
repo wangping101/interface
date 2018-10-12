@@ -445,5 +445,5 @@ def updatedate(id2):
         return 'sql执行异常'
 
 
-if __name__ == '__main__':
-    app.run(host='192.168.5.91')
+# if __name__ == '__main__':
+app.run(host='192.168.5.91')
